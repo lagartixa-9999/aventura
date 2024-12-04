@@ -17,9 +17,13 @@ button{
     color: blueviolet;
     font-family: "Bai Jamjuree", sans-serif;
 }
+.passo {
+    display:none;
+}
 
-
-
+.passo{
+    display:block;
+}
 
 
 
